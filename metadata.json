@@ -1,0 +1,6 @@
+{
+  "name": "متتبع العادات اليومية",
+  "description": "منظومة إنتاجية شاملة: متتبع العادات اليومية، متابع المالية والميزانية، متابع المهام والإنجاز، والمخطط الأسبوعي مع مزامنة Google Sheets والرسوم البيانية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
